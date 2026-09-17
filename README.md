@@ -45,7 +45,6 @@ keep working when the network, the cloud, or the operator isn't there.</i></p>
   <sub>PLATE I — THE PUBLIC GITHUB PROFILE PHOTOGRAPH, UNTREATED<sup>1</sup></sub>
 </p>
 
-<p align="center"><sub>A TEMPORARY EDITION · PUBLISHED WHILE THE PERMANENT PORTFOLIO IS REBUILT</sub></p>
 
 | Field | Institution | Location |
 | :-- | :-- | :-- |
@@ -59,7 +58,7 @@ keep working when the network, the cloud, or the operator isn't there.</i></p>
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Profile](#01-profile) | [Thesis](#02-thesis) | [Selected work](#03-selected-work) | [Practice](#04-practice) | [Archive](#05-archive) | [Correspondence](#06-correspondence) |
 
-<p align="center"><img src="./assets/rule-screen.svg" width="640" alt=""></p>
+
 
 ---
 
@@ -89,7 +88,6 @@ published under it.
 | **Repositories** | 9 | 7 |
 | **Public bio** | *"CSE @ IIIT Nagpur \| Cybersecurity, Ethical Hacking, Web Dev \| Ollama LLM Creator \| WhatsApp Bot Dev"* | *"just another Programmer"* |
 
-<p align="center"><img src="./assets/rule-screen.svg" width="640" alt=""></p>
 
 ---
 
@@ -127,21 +125,8 @@ fork or a team effort, it says so.
 | :-- | :-- | :-- | :-- |
 | *"Proto is not a chatbot. You give it a goal. It plans. It acts. It remembers. It reports."*<br><br><sub>README</sub> | *"The law must reach the last person — not just the last mile."*<br><br><sub>README</sub> | *"Read before you write. Document before you ship."*<br><br><sub>DEVELOPMENT RULES</sub> | *"Still in development, not working yet, but still a learning experience."*<br><br><sub>REPOSITORY DESCRIPTION</sub> |
 
-<p align="center"><img src="./assets/rule-screen.svg" width="640" alt=""></p>
 
-<p align="center">
-  <img src="./assets/interlude.svg" width="100%"
-       alt="Interlude: software that runs without permission, set in ink with an oxide halftone screen drifting behind the type">
-  <br>
-  <sub>PLATE II — THE BAND FROM SECTION 02 · INK GROUND, PAPER TYPE, HALFTONE SCREEN</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/filmstrip.svg" width="100%"
-       alt="A filmstrip of six frames, one per selected project, advancing under a projector">
-  <br>
-  <sub>PLATE III — THE ISSUE AS SIX FRAMES · ONE PER SELECTED PROJECT · PROJECTOR AT TWELVE SECONDS</sub>
-</p>
+  
 
 <!--  VIDEO SLOT
       GitHub strips <video> and <iframe>, so a README cannot play an MP4.
@@ -165,12 +150,7 @@ fork or a team effort, it says so.
 
 *What happens when a system is expected to act rather than answer?*
 
-<p align="center">
-  <img src="./assets/plate-01-proto.svg" width="640"
-       alt="Plate 01: a six-stage loop of decompose, decide, execute, remember, report and recover, with an oxide dot travelling down the spine">
-  <br>
-  <sub>PLATE 01 — THE LOOP · DRAWN FROM THE REPOSITORY'S OWN DOCUMENTATION</sub>
-</p>
+
 
 | Process or store | Responsibility |
 | :-- | :-- |
@@ -213,12 +193,7 @@ Also published as a project site at [ojas-mohbansi.github.io/proto](https://ojas
 
 *Three hundred million Indians qualify for legal aid. Almost none receive it.*
 
-<p align="center">
-  <img src="./assets/plate-02-nyaya.svg" width="640"
-       alt="Plate 02: four panes — know your rights, apply for, where to go, emergency SOS — with no server anywhere in the diagram">
-  <br>
-  <sub>PLATE 02 — FOUR SECTIONS, NO SERVER · RULES DRAW IN READING ORDER</sub>
-</p>
+
 
 | Section | Carries |
 | :-- | :-- |
@@ -265,12 +240,7 @@ Credited as founder and developer, with Pranav Prasoon as co-founder. Project si
 
 *What exists is the scaffolding of a serious system. The gap is the story.*
 
-<p align="center">
-  <img src="./assets/plate-03-chimera.svg" width="640"
-       alt="Plate 03: the chimera module tree — core, config, agents, api, extensions, skills, memory — with the last three marked planned">
-  <br>
-  <sub>PLATE 03 — MODULE TREE · <b>[PLANNED]</b> MEANS NAMED, NOT YET IMPLEMENTED</sub>
-</p>
+
 
 | Module | Contents |
 | :-- | :-- |
@@ -318,12 +288,7 @@ Published from the earlier S00K account. Its own agents document marks the agent
 
 *"An air-gapped, privacy-first civic data operating layer for municipal intelligence."*
 
-<p align="center">
-  <img src="./assets/plate-04-nagarvault.svg" width="640"
-       alt="Plate 04: seven services sealed inside a boundary, facing a dashed air gap that a blocked request reaches and does not cross">
-  <br>
-  <sub>PLATE 04 — THE BUILDING AND THE WALL · A REQUEST REACHES THE GAP AND STOPS</sub>
-</p>
+
 
 | Port | Service | Responsibility |
 | :-- | :-- | :-- |
@@ -370,12 +335,7 @@ Appears in the account as a fork, so authorship is treated here as a team effort
 
 *Choosing Tauri over the obvious web-in-a-box route is the whole engineering decision.*
 
-<p align="center">
-  <img src="./assets/plate-05-winget.svg" width="640"
-       alt="Plate 05: a five-layer stack — React and TypeScript, Tailwind and Vite, Tauri, Rust, output — with a marker walking down to the output">
-  <br>
-  <sub>PLATE 05 — LAYER BY LAYER · THE MARKER WALKS DOWN TO THE OUTPUT</sub>
-</p>
+
 
 | Layer | What it is |
 | :-- | :-- |
@@ -424,12 +384,7 @@ Built for Windows. Downloadable builds are attached to repository releases.
 
 *The repository documents its premise in two lines, so the plate is two lines.*
 
-<p align="center">
-  <img src="./assets/plate-06-vulnscan.svg" width="640"
-       alt="Plate 06: the two-line premise in italic serif, with a scan crossing the React, Flask and Django chips">
-  <br>
-  <sub>PLATE 06 — SCOPE, STATED IN FULL · THE SCAN CROSSES EACH FRAMEWORK IN TURN</sub>
-</p>
+
 
 > "New open-sourced vulnerability scan. Target framework-specific
 > misconfigurations in React, Flask, and Django apps."
@@ -479,7 +434,7 @@ managed backends doing the hard part, and very little in the way of analytics or
 telemetry — which is consistent with repositories that open by promising no data
 leaves the machine.
 
-<p align="center"><img src="./assets/rule-screen.svg" width="640" alt=""></p>
+
 
 ---
 
@@ -501,7 +456,7 @@ leaves the machine.
 
 7. **[Personal site, source](https://github.com/ojas-mohbansi/ojas-mohbansi)** — `2025` · `ojas-mohbansi`<br><sub>The source of the permanent portfolio, which the profile links to. The deployed address currently returns nothing, which is the reason this temporary edition exists.</sub>
 
-8. **[vrc](https://github.com/Stylish00Killer/vrc)** — `2026` · `S00K`<br><sub>The newest repository in either account. No description, no language, no README yet — listed here only because it is part of the record, and it is honest to say the archive includes things that are not finished.</sub>
+8. **[design](https://github.com/Stylish00Killer/design)** — `2026` · `S00K`<br><sub>This repo will contain all my HTML designs.</sub>
 
 <details>
 <summary><b>On the two identities</b></summary>
@@ -531,7 +486,7 @@ numbers.
 
 </details>
 
-<p align="center"><img src="./assets/rule-screen.svg" width="640" alt=""></p>
+
 
 ---
 
@@ -541,14 +496,6 @@ numbers.
 
 | Direct | Code | Elsewhere |
 | :-- | :-- | :-- |
-| <img src="./assets/icon-mail.svg" width="20" alt="Email"><br>**[ojasmohbansi@gmail.com](mailto:ojasmohbansi@gmail.com)** | <img src="./assets/icon-github.svg" width="20" alt="GitHub"><br>**[@ojas-mohbansi](https://github.com/ojas-mohbansi)** | <img src="./assets/icon-linkedin.svg" width="20" alt="LinkedIn"><br>**[in/ojas-mohbansi](https://www.linkedin.com/in/ojas-mohbansi/)** |
-| <img src="./assets/icon-institution.svg" width="20" alt="IIIT Nagpur"><br>**[IIIT Nagpur](https://iiitn.ac.in)** | <img src="./assets/icon-instagram.svg" width="20" alt="Instagram"><br>**[@ojas_mohbansi](https://instagram.com/ojas_mohbansi)** | <img src="./assets/icon-github.svg" width="20" alt="Earlier archive"><br>**[@Stylish00Killer](https://github.com/Stylish00Killer)** |
+| **[email: ojasmohbansi@gmail.com](mailto:ojasmohbansi@gmail.com)** | **[Github: @ojas-mohbansi](https://github.com/ojas-mohbansi)** | **[Linkedin: ojas-mohbansi](https://www.linkedin.com/in/ojas-mohbansi/)** |
+| **[IIIT Nagpur](https://iiitn.ac.in)** | **[instagram: @ojas_mohbansi](https://instagram.com/ojas_mohbansi)** | **[other GitHub: @Stylish00Killer](https://github.com/Stylish00Killer)** |
 
-<br>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/235676604?v=4" width="72"
-       alt="Ojas Mohbansi, printed small">
-  <br>
-  <sub>PLATE IV — THE SAME PHOTOGRAPH, PRINTED SMALL</sub>
-</p>
