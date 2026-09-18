@@ -103,12 +103,10 @@ Most of what's below solves one problem in different rooms: something's missing 
 
 This one animates your real contribution graph as a snake eating it. It needs a GitHub Action added to this repository once — see <code>snake.yml</code> alongside this file. After it runs the first time, add:
 
-```md
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojas-mohbansi/ojas-mohbansi/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/ojas-mohbansi/ojas-mohbansi/output/github-contribution-grid-snake.svg" />
 </picture>
-```
 
 </details>
 
