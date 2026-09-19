@@ -16,7 +16,13 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate contribution snake (svg + gif)
         uses: Platane/snk@v3
         with:
@@ -26,16 +32,24 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=#F5C451&color_dots=#0D1117,#30363D,#806020,#C99A3E,#F5C451
 
-      # Pushes straight to the "output" branch with plain git - no third-party
-      # deploy action in the loop. If this step fails, the error in the log
-      # will be a normal git/auth error instead of an opaque action failure.
       - name: Push output branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set -e
+
+          # Fix permission issues caused by files being created under root ownership
+          if [ -d dist ]; then
+            sudo chown -R "$(id -u):$(id -g)" dist || true
+            sudo chmod -R u+rwX dist || true
+            rm -rf dist/.git || true
+          fi
+
           cd dist
           git init -q
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -q -b output
           git add -A
-          git commit -q -m "chore: update contribution snake"
-          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
+          git commit -qm "chore: update contribution snake" || echo "No changes to commit"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" output
