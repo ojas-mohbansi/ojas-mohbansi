@@ -95,8 +95,6 @@ Most of what's below solves one problem in different rooms: something's missing 
 
 </div>
 
-<sub><em>This image is pulled from the `output` branch that `snake.yml` generates. It will look broken until that workflow finishes running once — see the note under the file itself if it stays broken after that.</em></sub>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3" width="100%"/>
 
 <div align="center">
