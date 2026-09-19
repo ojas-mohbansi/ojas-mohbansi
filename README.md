@@ -98,7 +98,7 @@ Most of what's below solves one problem in different rooms: something's missing 
 </div>
 
 <details>
-<summary>Contributions</summary>
+## Contributions
 <br/>
 
 <picture>
