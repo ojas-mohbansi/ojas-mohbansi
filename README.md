@@ -98,10 +98,8 @@ Most of what's below solves one problem in different rooms: something's missing 
 </div>
 
 <details>
-<summary><sub>Contribution snake — expand for one-time setup</sub></summary>
+<summary>Contributions</summary>
 <br/>
-
-This one animates your real contribution graph as a snake eating it. It needs a GitHub Action added to this repository once — see <code>snake.yml</code> alongside this file. After it runs the first time, add:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojas-mohbansi/ojas-mohbansi/output/github-contribution-grid-snake-dark.svg" />
