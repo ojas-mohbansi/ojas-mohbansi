@@ -97,7 +97,6 @@ Most of what's below solves one problem in different rooms: something's missing 
 
 </div>
 
-<details>
 ## Contributions
 <br/>
 
@@ -106,7 +105,6 @@ Most of what's below solves one problem in different rooms: something's missing 
   <img alt="snake animation" src="https://raw.githubusercontent.com/ojas-mohbansi/ojas-mohbansi/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3" width="100%"/>
 
