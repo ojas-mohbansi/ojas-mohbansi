@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p3-t">
+  <title id="p3-t">Nyaya Sahayak: Offline-first legal aid mobile app for India — peer-to-peer Bluetooth consultation in 17 languages.</title>
+  <defs>
+    <linearGradient id="p3-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B120B"/><stop offset="1" stop-color="#070C07"/>
+    </linearGradient>
+    <radialGradient id="p3-glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#1A6B2A" stop-opacity=".7"/><stop offset="1" stop-color="#113A11" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p3-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#5CA668" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="p3-glowf" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="p3-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="p3-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0F5F0"/><stop offset=".45" stop-color="#8DD68D"/><stop offset="1" stop-color="#5CA668" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .p3-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .p3-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .p3-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .p3-in { animation: p3-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .p3-d1 { animation-delay: .15s; } .p3-d2 { animation-delay: .4s; }
+    .p3-chip { animation: p3-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes p3-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .p3-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: p3-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes p3-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes p3-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p3-in, .p3-chip { animation: none; } .p3-draw { animation: none; stroke-dashoffset: 0; } }
+    .p3-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: p3-trace 7s linear infinite; }
+    @keyframes p3-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p3-trace { display: none; } }
+  </style>
+  <g clip-path="url(#p3-clip)">
+    <rect width="1200" height="370" fill="url(#p3-bg)"/>
+    <rect x="720" width="480" height="370" fill="url(#p3-grid)"/>
+    <rect width="1200" height="370" fill="url(#p3-glow)"/>
+    <g class="p3-in p3-d1">
+      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#5CA668">03 · CIVIC TECH · OFFLINE-FIRST · 2025</text>
+      <text class="p3-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F0F5F0">Nyaya Sahayak</text>
+      <text class="p3-sans" x="56" y="166" font-size="17" fill="#A3B0A3">Legal aid for India — offline Bluetooth P2P consultation in 17 languages, no internet required.</text>
+      <text class="p3-mono" x="56" y="200" font-size="12.5" fill="#8DD68D"><tspan fill="#5CA668">BUILT ›</tspan> React Native + Expo · Bluetooth mesh · multilingual · AGPL-3.0 open source</text>
+      <line class="p3-draw" x1="56" y1="226" x2="680" y2="226" stroke="#5CA668" stroke-opacity=".3"/>
+    <g transform="translate(56 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#F0F5F0">17</text><text class="p3-sans" y="24" font-size="12.5" fill="#A3B0A3">Indian languages</text></g>
+    <g transform="translate(261 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#F0F5F0">Offline</text><text class="p3-sans" y="24" font-size="12.5" fill="#A3B0A3">Bluetooth P2P mesh</text></g>
+    <g transform="translate(466 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#F0F5F0">Civic</text><text class="p3-sans" y="24" font-size="12.5" fill="#A3B0A3">legal aid access</text></g>
+      <g class="p3-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="103" height="26" rx="13" fill="#10180D" stroke="#5CA668" stroke-opacity=".35"/><text class="p3-mono" x="108" y="331" text-anchor="middle" font-size="11.5" fill="#8DD68D">React Native</text></g>
+      <g class="p3-chip" style="animation-delay:1.12s"><rect x="167" y="314" width="92" height="26" rx="13" fill="#10180D" stroke="#5CA668" stroke-opacity=".35"/><text class="p3-mono" x="213" y="331" text-anchor="middle" font-size="11.5" fill="#8DD68D">TypeScript</text></g>
+      <g class="p3-chip" style="animation-delay:1.24s"><rect x="267" y="314" width="50" height="26" rx="13" fill="#10180D" stroke="#5CA668" stroke-opacity=".35"/><text class="p3-mono" x="292" y="331" text-anchor="middle" font-size="11.5" fill="#8DD68D">Expo</text></g>
+      <g class="p3-chip" style="animation-delay:1.36s"><rect x="325" y="314" width="54" height="26" rx="13" fill="#10180D" stroke="#5CA668" stroke-opacity=".35"/><text class="p3-mono" x="352" y="331" text-anchor="middle" font-size="11.5" fill="#8DD68D">AGPL</text></g>
+    </g>
+    <g class="p3-in p3-d2"><g transform="translate(0 35)">
+      <g>
+        <rect x="760" y="50" width="250" height="38" rx="12" fill="#F0F5F0" fill-opacity=".07" stroke="#5CA668" stroke-opacity=".3"/>
+        <text class="p3-mono" x="776" y="74" font-size="12" fill="#F0F5F0">"legal help needed"</text>
+        <g transform="translate(760 112)">
+          <rect width="76" height="58" rx="9" fill="#10180D" stroke="#5CA668" stroke-opacity=".3">
+            <animate attributeName="fill" values="#10180D;#1A6B2A;#10180D;#10180D" keyTimes="0;.08;.2;1" dur="6s" begin="1.0s" repeatCount="indefinite"/>
+          </rect>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#A3B0A3">01</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F0F5F0">Consult</text>
+        </g>
+        <g transform="translate(844 112)">
+          <rect width="76" height="58" rx="9" fill="#10180D" stroke="#5CA668" stroke-opacity=".3">
+            <animate attributeName="fill" values="#10180D;#1A6B2A;#10180D;#10180D" keyTimes="0;.08;.2;1" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+          </rect>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#A3B0A3">02</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F0F5F0">Translate</text>
+        </g>
+        <g transform="translate(928 112)">
+          <rect width="76" height="58" rx="9" fill="#10180D" stroke="#5CA668" stroke-opacity=".3">
+            <animate attributeName="fill" values="#10180D;#1A6B2A;#10180D;#10180D" keyTimes="0;.08;.2;1" dur="6s" begin="2.2s" repeatCount="indefinite"/>
+          </rect>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#A3B0A3">03</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F0F5F0">Connect</text>
+        </g>
+        <g transform="translate(1012 112)">
+          <rect width="76" height="58" rx="9" fill="#10180D" stroke="#5CA668" stroke-opacity=".3">
+            <animate attributeName="fill" values="#10180D;#1A6B2A;#10180D;#10180D" keyTimes="0;.08;.2;1" dur="6s" begin="2.8s" repeatCount="indefinite"/>
+          </rect>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#A3B0A3">04</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F0F5F0">Share</text>
+        </g>
+        <text class="p3-mono" x="1176" y="214" font-size="12" text-anchor="end" fill="#8DD68D">Bluetooth P2P · no internet needed</text>
+        <text class="p3-mono" x="1176" y="240" font-size="10.5" text-anchor="end" letter-spacing="1.5" fill="#A3B0A3">OFFLINE FIRST · 17 LANGUAGES · AGPL-3.0</text>
+      </g>
+    </g></g>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#5CA668" stroke-opacity=".2"/>
+    <rect class="p3-trace" style="animation-delay:-3.4s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p3-trace)" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>

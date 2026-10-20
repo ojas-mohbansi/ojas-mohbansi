@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p1-t">
+  <title id="p1-t">Proto: A proactive agentic AI that decomposes goals via HTN planning and executes actions using local LLMs.</title>
+  <defs>
+    <linearGradient id="p1-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B120B"/><stop offset="1" stop-color="#070C07"/>
+    </linearGradient>
+    <radialGradient id="p1-glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#1A6B2A" stop-opacity=".7"/><stop offset="1" stop-color="#113A11" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p1-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#5CA668" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="p1-glowf" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="p1-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="p1-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0F5F0"/><stop offset=".45" stop-color="#8DD68D"/><stop offset="1" stop-color="#5CA668" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .p1-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .p1-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .p1-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .p1-in { animation: p1-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .p1-d1 { animation-delay: .15s; } .p1-d2 { animation-delay: .4s; }
+    .p1-chip { animation: p1-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes p1-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .p1-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: p1-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes p1-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes p1-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p1-in, .p1-chip { animation: none; } .p1-draw { animation: none; stroke-dashoffset: 0; } }
+    .p1-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: p1-trace 7s linear infinite; }
+    @keyframes p1-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p1-trace { display: none; } }
+  </style>
+  <g clip-path="url(#p1-clip)">
+    <rect width="1200" height="370" fill="url(#p1-bg)"/>
+    <rect x="720" width="480" height="370" fill="url(#p1-grid)"/>
+    <rect width="1200" height="370" fill="url(#p1-glow)"/>
+    <g class="p1-in p1-d1">
+      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#5CA668">01 · AGENTIC AI · HTN PLANNING · 2025</text>
+      <text class="p1-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F0F5F0">Proto</text>
+      <text class="p1-sans" x="56" y="166" font-size="17" fill="#A3B0A3">A proactive agent that decomposes goals via HTN planning and executes actions locally.</text>
+      <text class="p1-mono" x="56" y="200" font-size="12.5" fill="#8DD68D"><tspan fill="#5CA668">BUILT ›</tspan> HTN planner + sandboxed execution + watchdog recovery + local LLM via Ollama</text>
+      <line class="p1-draw" x1="56" y1="226" x2="680" y2="226" stroke="#5CA668" stroke-opacity=".3"/>
+    <g transform="translate(56 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F0F5F0">Local</text><text class="p1-sans" y="24" font-size="12.5" fill="#A3B0A3">LLM — no cloud API</text></g>
+    <g transform="translate(261 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F0F5F0">HTN</text><text class="p1-sans" y="24" font-size="12.5" fill="#A3B0A3">goal decomposition</text></g>
+    <g transform="translate(466 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F0F5F0">AGPL</text><text class="p1-sans" y="24" font-size="12.5" fill="#A3B0A3">open source</text></g>
+      <g class="p1-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="92" height="26" rx="13" fill="#10180D" stroke="#5CA668" stroke-opacity=".35"/><text class="p1-mono" x="102" y="331" text-anchor="middle" font-size="11.5" fill="#8DD68D">TypeScript</text></g>
+      <g class="p1-chip" style="animation-delay:1.12s"><rect x="156" y="314" width="70" height="26" rx="13" fill="#10180D" stroke="#5CA668" stroke-opacity=".35"/><text class="p1-mono" x="191" y="331" text-anchor="middle" font-size="11.5" fill="#8DD68D">Node.js</text></g>
+      <g class="p1-chip" style="animation-delay:1.24s"><rect x="234" y="314" width="60" height="26" rx="13" fill="#10180D" stroke="#5CA668" stroke-opacity=".35"/><text class="p1-mono" x="264" y="331" text-anchor="middle" font-size="11.5" fill="#8DD68D">Ollama</text></g>
+      <g class="p1-chip" style="animation-delay:1.36s"><rect x="302" y="314" width="54" height="26" rx="13" fill="#10180D" stroke="#5CA668" stroke-opacity=".35"/><text class="p1-mono" x="329" y="331" text-anchor="middle" font-size="11.5" fill="#8DD68D">AGPL</text></g>
+    </g>
+    <g class="p1-in p1-d2"><g transform="translate(0 35)">
+      <g transform="translate(780 40)">
+        <rect width="360" height="260" rx="14" fill="#10180D" fill-opacity=".9" stroke="#5CA668" stroke-opacity=".3"/>
+        <text class="p1-mono" x="20" y="34" font-size="10" letter-spacing="1.6" fill="#5CA668">GOAL DECOMPOSITION</text>
+        <rect x="20" y="50" width="320" height="36" rx="8" fill="#1A6B2A" fill-opacity=".3" stroke="#5CA668" stroke-opacity=".4"/>
+        <text class="p1-mono" x="36" y="73" font-size="11" fill="#F0F5F0">goal: summarise repo changes</text>
+        <text class="p1-mono" x="20" y="114" font-size="10" fill="#A3B0A3">→ plan</text>
+        <rect x="36" y="120" width="100" height="26" rx="6" fill="#113A11" stroke="#8DD68D" stroke-opacity=".5"/>
+        <text class="p1-mono" x="86" y="137" text-anchor="middle" font-size="10" fill="#F0F5F0">read files</text>
+        <rect x="144" y="120" width="100" height="26" rx="6" fill="#113A11" stroke="#8DD68D" stroke-opacity=".5"/>
+        <text class="p1-mono" x="194" y="137" text-anchor="middle" font-size="10" fill="#F0F5F0">diff commits</text>
+        <rect x="90" y="160" width="120" height="26" rx="6" fill="#1A6B2A" stroke="#5CA668"/>
+        <text class="p1-mono" x="150" y="177" text-anchor="middle" font-size="10" fill="#F0F5F0">summarise</text>
+        <text class="p1-mono" x="20" y="210" font-size="10" fill="#A3B0A3">→ execute in sandbox</text>
+        <text class="p1-mono" x="20" y="230" font-size="10" fill="#A3B0A3">→ explain actions taken</text>
+      </g>
+    </g></g>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#5CA668" stroke-opacity=".2"/>
+    <rect class="p1-trace" style="animation-delay:0.0s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p1-trace)" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>

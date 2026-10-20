@@ -1,160 +1,63 @@
-<div align="center">
+<a href="https://ojas-mohbansi.github.io/ojas-mohbansi/">
+  <img src="assets/ojas-hero-portrait.svg" width="100%" alt="Ojas Mohbansi — AI Systems Developer, Full-Stack Engineer. Building private AI, civic tools, and systems that run on your hardware.">
+</a>
 
-<img src="https://github.com/ojas-mohbansi.png" width="140" alt="Ojas Mohbansi" />
+<p align="center">
+  <a href="https://ojas-mohbansi.github.io/ojas-mohbansi/"><img src="https://img.shields.io/badge/Portfolio-ojas--mohbansi.github.io-701A3D?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0" alt="Portfolio website"></a>
+  <a href="https://www.linkedin.com/in/ojas-mohbansi/"><img src="https://img.shields.io/badge/LinkedIn-ojas--mohbansi-701A3D?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
+  <a href="mailto:ojasmohbansi@gmail.com"><img src="https://img.shields.io/badge/Email-ojasmohbansi@gmail.com-701A3D?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=gmail" alt="Email ojasmohbansi@gmail.com"></a>
+</p>
 
-# Ojas Mohbansi
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Ojas.">
+<img src="assets/about-intro.svg" width="100%" alt="About: AI Systems Developer and Full-Stack Engineer. B.Tech CS at IIIT Nagpur, graduating 2028. Independent AI and OSS developer since December 2024. Shipped Proto (agentic AI), Alice Unified Bot (WhatsApp + Discord), Nyaya Sahayak (offline civic tech), and OmniTutor AI. Primary languages TypeScript and Python; drawn to edge inference, self-hosted infrastructure, and civic technology.">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=23&duration=3000&pause=1100&color=F5C451&background=00000000&center=true&vCenter=true&width=650&height=45&lines=Computer+Science+%40+IIIT+Nagpur;Building+agents%2C+not+chatbots;Systems+%2B+Security+%2B+Applied+AI;Also+publishing+as+S00K" alt="Typing SVG" />
+<img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Proof, on the record.">
+<img src="assets/achievement-motif-v2.svg" width="100%" alt="GCI World 2026 September Cohort — Matsuo-Iwasawa Lab, The University of Tokyo. Google Cloud Computing Foundations x2, October 2026. ISRO Bharatiya Antariksh Hackathon 2025 submission. 16 subprojects across AI, bots, web platforms, and civic tech. IIIT Nagpur B.Tech CS graduating 2028.">
 
-<a href="https://github.com/ojas-mohbansi"><img src="https://komarev.com/ghpvc/?username=ojas-mohbansi&label=Profile%20Views&color=F5C451&style=for-the-badge" alt="Profile Views"/></a>
-<img src="https://img.shields.io/badge/IIIT_Nagpur-Computer_Science-0D1117?style=for-the-badge&labelColor=F5C451" alt="IIIT Nagpur"/>
+<img src="assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">
 
-</div>
+<a href="https://github.com/ojas-mohbansi/proto"><img src="assets/project-proto-v2.svg" width="100%" alt="Proto: A proactive agentic AI that decomposes goals via HTN planning and executes safe actions using local LLMs via Ollama. No cloud API required. TypeScript, Node.js, AGPL-3.0."></a>
+<p align="center">
+  <a href="https://github.com/ojas-mohbansi/proto"><img src="https://img.shields.io/badge/Repository-Proto-451126?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=github" alt="Proto repository"></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3" width="100%"/>
+<img src="assets/project-alice-unified-bot-v2.svg" width="100%" alt="Alice Unified Bot: Dual-platform WhatsApp and Discord bot running Baileys and Discord.js v14 concurrently in one Node.js process. SQLite persistence, modular command router. 2024.">
+<p align="center">
+  <a href="https://github.com/stylish00killer"><img src="https://img.shields.io/badge/GitHub-stylish00killer-451126?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=github" alt="stylish00killer GitHub"></a>
+</p>
 
-### About
+<a href="https://github.com/ojas-mohbansi/nyaya-sahayak"><img src="assets/project-nyaya-sahayak-v2.svg" width="100%" alt="Nyaya Sahayak: Offline-first legal aid mobile app for India. Peer-to-peer Bluetooth consultation in 17 languages, no internet required. React Native, TypeScript, Expo, AGPL-3.0."></a>
+<p align="center">
+  <a href="https://github.com/ojas-mohbansi/nyaya-sahayak"><img src="https://img.shields.io/badge/Repository-Nyaya_Sahayak-451126?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=github" alt="Nyaya Sahayak repository"></a>
+</p>
 
-Most of what's below solves one problem in different rooms: something's missing — a signal, a person at the keyboard, a reply — and the software gets built to stand in for it. Third-year CS student at **IIIT Nagpur**, member of **CRISPR-IIITN**. Interested in agentic systems, offline-first design, and the security side of both.
+<a href="https://github.com/ojas-mohbansi/omnitutor-ai"><img src="assets/project-omnitutor-ai-v2.svg" width="100%" alt="OmniTutor AI: Source-grounded multimodal AI tutoring system with adaptive quiz generation. Every answer cites its source. TypeScript, Node.js, LLM, Monorepo."></a>
+<p align="center">
+  <a href="https://github.com/ojas-mohbansi/omnitutor-ai"><img src="https://img.shields.io/badge/Repository-OmniTutor_AI-451126?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=github" alt="OmniTutor AI repository"></a>
+</p>
 
-<br/>
+<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
+<img src="assets/tech-constellation-v2.svg" width="100%" alt="Tech stack. Languages: TypeScript/JavaScript (primary), Python, C++, Rust. AI/LLM: Ollama, LangChain, RAG, Whisper STT, ChromaDB, Piper TTS. Bot/Automation: Baileys, Discord.js v14, Node.js. Backend: Express, Flask, Spring Boot, REST APIs, JWT. Data and infrastructure: PostgreSQL, SQLite, MySQL, ChromaDB, Docker, Linux, Raspberry Pi, Tor, Google Cloud. Tools: Git, GitHub, PM2.">
 
-### Tools of the Practice
+<img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building.">
+<img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating real public GitHub contributions over the past year. Refreshed daily from github.com/ojas-mohbansi.">
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojas-mohbansi&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=070C07&title_color=8DD68D&text_color=A3B0A3&icon_color=5CA668&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for ojas-mohbansi">
+</p>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,flask,fastapi,rust,tauri,sqlite,git,linux,tailwind&theme=dark&perline=7" alt="Tech stack"/>
+<img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Verified credentials.">
+<a href="https://ojas-mohbansi.github.io/ojas-mohbansi/#experience"><img src="assets/certifications.svg" width="100%" alt="Certifications: Google Cloud Computing Fundamentals and Infrastructure in Google Cloud (October 2026). Two additional certifications on LinkedIn."></a>
 
-<sub>Also in regular use — <strong>Ollama</strong> for local LLMs, <strong>Baileys</strong> for WhatsApp automation, <strong>Playwright</strong> for browser agents, <strong>ChromaDB</strong> for retrieval memory.</sub>
+<img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something worth explaining.">
 
-</div>
+<p align="center">
+  <a href="mailto:ojasmohbansi@gmail.com"><img src="https://img.shields.io/badge/Email-ojasmohbansi@gmail.com-701A3D?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=gmail" alt="Email ojasmohbansi@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/ojas-mohbansi/"><img src="https://img.shields.io/badge/LinkedIn-ojas--mohbansi-701A3D?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
+  <a href="https://ojas-mohbansi.github.io/ojas-mohbansi/"><img src="https://img.shields.io/badge/Portfolio-ojas--mohbansi.github.io-701A3D?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0" alt="Portfolio website"></a>
+  <a href="https://github.com/stylish00killer"><img src="https://img.shields.io/badge/Also_on-stylish00killer-451126?style=for-the-badge&labelColor=070C07&logoColor=F0F5F0&logo=github" alt="stylish00killer GitHub account"></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3" width="100%"/>
-
-### Selected Work
-
-<table>
-<tr>
-<td width="99%">
-
-**[Proto](https://github.com/ojas-mohbansi/proto)** — a proactive agent, not a chat bot. Goals get decomposed with HTN planning, checked against dual memory (SQLite + ChromaDB), executed in a sandbox, and reported back over a dashboard or straight into WhatsApp. A watchdog restarts anything that stalls. `FastAPI` `Next.js` `Baileys` `Ollama` · AGPL-3.0
-
-<img src="https://img.shields.io/github/stars/ojas-mohbansi/proto?style=flat-square&color=F5C451&labelColor=0D1117" alt="stars"/> <img src="https://img.shields.io/github/languages/top/ojas-mohbansi/proto?style=flat-square&color=0D1117&labelColor=0D1117" alt="lang"/>
-
-</td>
-</tr>
-<tr>
-<td width="99%">
-
-**[Nyaya Sahayak](https://github.com/ojas-mohbansi/nyaya-sahayak)** — offline-first legal aid for India. Guidance moves phone-to-phone over a Bluetooth P2P mesh, encrypted with RSA-2048, across 17 Indian languages — for the reader with no wifi and no lawyer. `React Native` `Expo` `TypeScript` `SQLite`
-
-<img src="https://img.shields.io/github/stars/ojas-mohbansi/nyaya-sahayak?style=flat-square&color=F5C451&labelColor=0D1117" alt="stars"/> <img src="https://img.shields.io/github/languages/top/ojas-mohbansi/nyaya-sahayak?style=flat-square&color=0D1117&labelColor=0D1117" alt="lang"/>
-
-</td>
-</tr>
-<tr>
-<td width="99%">
-
-**[Winget GUI](https://github.com/ojas-mohbansi/winget)** — a modern, secure desktop shell over the Windows Package Manager. A Rust core under Tauri, a React front end on top — package management for people who've never opened PowerShell. `Tauri` `Rust` `React` `TypeScript`
-
-<img src="https://img.shields.io/github/stars/ojas-mohbansi/winget?style=flat-square&color=F5C451&labelColor=0D1117" alt="stars"/> <img src="https://img.shields.io/github/languages/top/ojas-mohbansi/winget?style=flat-square&color=0D1117&labelColor=0D1117" alt="lang"/>
-
-</td>
-</tr>
-<tr>
-<td width="99%">
-
-**[VulnScan Pro](https://github.com/ojas-mohbansi/vulnscanpro)** — an open-sourced scanner targeting framework-specific misconfigurations across React, Flask, and Django. `TypeScript`
-
-<img src="https://img.shields.io/github/stars/ojas-mohbansi/vulnscanpro?style=flat-square&color=F5C451&labelColor=0D1117" alt="stars"/> <img src="https://img.shields.io/github/languages/top/ojas-mohbansi/vulnscanpro?style=flat-square&color=0D1117&labelColor=0D1117" alt="lang"/>
-
-</td>
-</tr>
-<tr>
-<td width="99%">
-
-**[S00K OS](https://github.com/ojas-mohbansi/my-own-os)** — a kernel built from nothing: boot process, low-level memory, the works. By its own README's admission, not working yet — kept for what it's taught rather than what it does. `C`
-
-<img src="https://img.shields.io/github/stars/ojas-mohbansi/my-own-os?style=flat-square&color=F5C451&labelColor=0D1117" alt="stars"/> <img src="https://img.shields.io/github/languages/top/ojas-mohbansi/my-own-os?style=flat-square&color=0D1117&labelColor=0D1117" alt="lang"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3" width="100%"/>
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojas-mohbansi/ojas-mohbansi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojas-mohbansi/ojas-mohbansi/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ojas-mohbansi/ojas-mohbansi/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3" width="100%"/>
-
-<div align="center">
-
-## Also Building, as S00K
-
-<img src="https://github.com/Stylish00Killer.png" width="90" alt="S00K"/>
-
-<sub>*"Just another Programmer."* — a second, older, considerably louder account, kept in its own voice.</sub>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="99%">
-
-**[BUILDBTECH](https://github.com/Stylish00Killer/BUILDBTECH)** — an AI-powered all-in-one platform prototype that streamlines BTech student life: automates lab reports, assists with projects, and adds interactive learning and collaboration on top. `HTML`
-
-</td>
-</tr>
-<tr>
-<td width="99%">
-
-**[osm](https://github.com/Stylish00Killer/osm)** — a cybersecurity learning hub covering hacking, AI, and crypto fundamentals, built with a self-aware sense of humor about energy-drink-fuelled late nights. [Live demo](https://stylish00killer.github.io/osm/). `PHP`
-
-</td>
-</tr>
-<tr>
-<td width="99%">
-
-**[sih](https://github.com/Stylish00Killer/sih)** — "SIH Skill Roadmap," guiding users through structured skill paths across frontend, backend, AI/ML, design, and project management. `HTML`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py,c,php&theme=dark" alt="S00K stack"/>
-
-<a href="https://github.com/Stylish00Killer"><strong>→ github.com/Stylish00Killer</strong></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3" width="100%"/>
-
-<div align="center">
-
-### Open Correspondence
-
-<a href="https://www.linkedin.com/in/ojas-mohbansi"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F5C451" alt="LinkedIn"/></a>
-<a href="https://instagram.com/ojas_mohbansi"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F5C451" alt="Instagram"/></a>
-<a href="mailto:ojasmohbansi@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F5C451" alt="Email"/></a>
-
-<br/><br/>
-
-<sub>The work continues.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:161B22&height=90&section=footer" width="100%"/>
+<a href="https://ojas-mohbansi.github.io/ojas-mohbansi/">
+  <img src="assets/footer-signature-v2.svg" width="100%" alt="Ojas — Building AI that runs on your hardware, not someone else's cloud.">
+</a>

@@ -1,4 +1,4 @@
-name: generate snake animation
+name: Generate contribution snake animation
 
 # Runs once a day, on demand (Actions tab -> this workflow -> Run workflow),
 # and every time main is pushed.
@@ -30,7 +30,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=#F5C451&color_dots=#0D1117,#30363D,#806020,#C99A3E,#F5C451
+            dist/github-contribution-grid-snake.gif?color_snake=#8DD68D&color_dots=#0B120B,#145320,#1A6B2A,#2F843C,#5CA668
 
       - name: Push output branch
         env:
