@@ -1,4 +1,4 @@
-/* ==========================================================================
+﻿/* ==========================================================================
    Components — intro, progress, navigation, heatmap
    ========================================================================== */
 
@@ -52,7 +52,7 @@
     transform-origin: 0 50%;
     transform: scaleX(var(--progress, 0));
     background: linear-gradient(90deg, var(--wine-700), var(--rose-300));
-    box-shadow: 0 0 12px rgba(216, 140, 168, 0.6);
+    box-shadow: 0 0 12px rgba(92, 166, 104, 0.6);
   }
   /* Native scroll-driven version; JS only fills --progress when unsupported */
   @supports (animation-timeline: scroll()) {
@@ -74,12 +74,12 @@
     border-bottom: 1px solid transparent;
   }
   .nav.is-scrolled {
-    background: rgba(16, 7, 12, 0.82);
+    background: rgba(7, 12, 7, 0.82);
     border-bottom-color: var(--line);
   }
   @supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
     .nav.is-scrolled {
-      background: rgba(16, 7, 12, 0.6);
+      background: rgba(7, 12, 7, 0.6);
       -webkit-backdrop-filter: blur(16px) saturate(150%);
       backdrop-filter: blur(16px) saturate(150%);
     }
@@ -190,7 +190,7 @@
     padding: var(--space-xl);
     border-radius: var(--radius-l);
     background:
-      radial-gradient(80% 120% at 100% 0%, rgba(110, 23, 56, 0.28), transparent 60%),
+      radial-gradient(80% 120% at 100% 0%, rgba(21, 83, 33, 0.28), transparent 60%),
       linear-gradient(180deg, var(--ink-900), var(--ink-950));
     border: 1px solid var(--line);
     box-shadow: var(--shadow-2);
@@ -209,7 +209,7 @@
     padding: 4px;
     border-radius: 999px;
     border: 1px solid var(--line);
-    background: rgba(16, 7, 12, 0.6);
+    background: rgba(7, 12, 7, 0.6);
   }
   .heatmap__ranges button {
     padding: 0.4rem 0.9rem;
@@ -230,7 +230,7 @@
     font-size: 0.9em;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    background: rgba(216, 140, 168, 0.12);
+    background: rgba(92, 166, 104, 0.12);
     color: var(--rose-200);
   }
   .heatmap__source .badge--demo { background: rgba(201, 162, 122, 0.18); color: var(--brass); }
