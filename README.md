@@ -42,9 +42,7 @@
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building.">
 <img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating real public GitHub contributions over the past year. Refreshed daily from github.com/ojas-mohbansi.">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojas-mohbansi&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=070C07&title_color=8DD68D&text_color=A3B0A3&icon_color=5CA668&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for ojas-mohbansi">
-</p>
+
 
 <img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Verified credentials.">
 <a href="https://ojas-mohbansi.github.io/ojas-mohbansi/#experience"><img src="assets/certifications.svg" width="100%" alt="Certifications: Google Cloud Computing Fundamentals and Infrastructure in Google Cloud (October 2026). Two additional certifications on LinkedIn."></a>
